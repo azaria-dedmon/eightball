@@ -1,0 +1,12 @@
+.eight-ball {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
+
+.answer-text {
+    color: white;
+    text-align: center;
+    padding-top: 45%;
+}
